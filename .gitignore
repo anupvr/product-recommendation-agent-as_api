@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+PR_Agentic_LC/
+PR_LS/
+PR_Fastapi/
+venv/
+env/
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# dotenv
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Python cache
+*.log
+*.tmp
+
+# LangChain / LangGraph caching
+.cache/
+
+# pyright / mypy
+.mypy_cache/
+.pyright/
+
+# Pip wheel files
+*.whl

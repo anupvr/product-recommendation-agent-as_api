@@ -1,0 +1,6 @@
+langchain>=0.1.14
+langgraph>=0.0.35
+openai>=1.0.0
+tavily-python>=0.1.7
+python-dotenv
+langchain_community
